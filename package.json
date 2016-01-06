@@ -1,0 +1,32 @@
+{
+  "name": "comments-react",
+  "version": "1.0.0",
+  "description": "comments using reactjs",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aageboi/Comments.git"
+  },
+  "keywords": [
+    "react",
+    "tutorial",
+    "comment",
+    "example"
+  ],
+  "author": "aageboi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aageboi/Comments/issues"
+  },
+  "homepage": "https://github.com/aageboi/Comments#readme",
+  "dependencies": {
+    "body-parser": "^1.14.2",
+    "express": "^4.13.3",
+    "path": "^0.12.7",
+    "request": "^2.67.0"
+  }
+}
